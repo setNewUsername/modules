@@ -40,7 +40,6 @@ public:
     };
 };
 
-
 int main(int argc, char* argv[])
 {
     ThreadManager thr_mgr;
